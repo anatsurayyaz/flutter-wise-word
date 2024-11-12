@@ -22,7 +22,7 @@
 
 **Snackbar when user tapped a ListTile in the History Page**
 
-![snackbar_hist](https://github.com/user-attachments/assets/275285b7-e486-4515-b87e-a6215)
+![snackbar_hist](https://github.com/user-attachments/assets/13b1400d-8585-46e5-ae7d-85139fe7c188)
 
 **Clicked button to removed all history words on the history page.**
 
