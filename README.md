@@ -1,5 +1,5 @@
-@anatsurayyaz
 *Task: Wise Word - Enhanced Ver.*
+
 **Changed application’s color, text color, UI style**
 ![changetheme](https://github.com/user-attachments/assets/5ae81afb-a703-4520-8618-9a387fcd379d)
 **Favorite page**
@@ -15,3 +15,5 @@
 **Clicked button to removed all history words on the history page.**
 ![delete_history](https://github.com/user-attachments/assets/24d7760b-ad4a-4d89-b181-b20f06d08edd)
 97182a4)
+
+@anatsurayyaz
